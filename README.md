@@ -73,7 +73,9 @@ The interactive Excel dashboard includes:
 
 ---
 
+## 📸 Dashboard Preview
 
+![Dashboard](dashboard_excel2.png)
 
 ## 💡 Key Insights
 
